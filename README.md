@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Paulo
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning HTML, CSS, Javascript and Flutter!
+- 🌱 I’m currently learning HTML, CSS, Javascript, Ionic, Flutter and Figma!
