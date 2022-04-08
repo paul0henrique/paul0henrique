@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paulo
+- 👋 Hi, I’m Paulo!
 - 👀 I’m interested in front end and mobile development
 - 🌱 I’m currently learning HTML, CSS, Javascript, Ionic, Flutter and Figma!
 
