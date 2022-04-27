@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulo!
 - 👀 I’m interested in front end and mobile development
-- 🌱 I’m currently learning HTML, CSS, Javascript, Ionic, Flutter and Figma!
+- 🌱 I’m currently learning HTML, CSS, Javascript, Ionic and React
 
 <div align="center">
   <a href="https://github.com/paul0henrique">
