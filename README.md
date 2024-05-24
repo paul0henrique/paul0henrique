@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulo!
 - 👀 I’m interested in front end and mobile development
-- 🌱 I’m currently working with React.js, Next.js and Swift
+- 🌱 I’m currently working with Swift/SwiftUI
 
 <div align="center">
   <a href="https://github.com/paul0henrique">
